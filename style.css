@@ -1,0 +1,52 @@
+body {
+  background-color: Beige;
+text-align: center;
+font-family:Candara;
+line-height: 1.3;
+}
+
+h1 {
+  color: navy;
+  font-size: 4pc;
+}
+
+ul {
+	text-align: center;
+}
+
+#specile
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+
+p {
+  font-size: 1em; /* 14px/16=1em */
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #00004d;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #e6e6ff;
+}
